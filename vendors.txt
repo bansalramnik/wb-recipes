@@ -1,0 +1,3 @@
+Sample Vendors List
+Raman Coffee Shop1 | Bangalore, India | 111-333-4444
+Raman Coffee Shop2 | Delhi, India | 222-333-4444
